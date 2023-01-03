@@ -1,0 +1,2 @@
+This is a 2-hour informational video Lecture on Git and GitHub.
+You can Learn Git and GitHub in just one video with examples
